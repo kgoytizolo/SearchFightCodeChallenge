@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "SearchFight/1.0.0": {
+        "dependencies": {
+          "SearchFight.Business": "1.0.0",
+          "SearchFight.Messages": "1.0.0",
+          "SearchFight.Models": "1.0.0"
+        },
+        "runtime": {
+          "SearchFight.dll": {}
+        }
+      },
+      "SearchFight.Business/1.0.0": {
+        "dependencies": {
+          "SearchFight.DataAccess": "1.0.0",
+          "SearchFight.Messages": "1.0.0",
+          "SearchFight.Models": "1.0.0"
+        },
+        "runtime": {
+          "SearchFight.Business.dll": {}
+        }
+      },
+      "SearchFight.DataAccess/1.0.0": {
+        "dependencies": {
+          "SearchFight.Models": "1.0.0"
+        },
+        "runtime": {
+          "SearchFight.DataAccess.dll": {}
+        }
+      },
+      "SearchFight.Messages/1.0.0": {
+        "runtime": {
+          "SearchFight.Messages.dll": {}
+        }
+      },
+      "SearchFight.Models/1.0.0": {
+        "runtime": {
+          "SearchFight.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SearchFight/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchFight.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchFight.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchFight.Messages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SearchFight.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\bin\Debug\netstandard2.0\SearchFight.Business.deps.json
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\bin\Debug\netstandard2.0\SearchFight.Business.dll
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\bin\Debug\netstandard2.0\SearchFight.Business.pdb
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\obj\Debug\netstandard2.0\SearchFight.Business.csproj.CoreCompileInputs.cache
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\obj\Debug\netstandard2.0\SearchFight.Business.AssemblyInfoInputs.cache
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\obj\Debug\netstandard2.0\SearchFight.Business.AssemblyInfo.cs
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\obj\Debug\netstandard2.0\SearchFight.Business.dll
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\obj\Debug\netstandard2.0\SearchFight.Business.pdb
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\bin\Debug\netstandard2.0\SearchFight.Messages.dll
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\bin\Debug\netstandard2.0\SearchFight.Models.dll
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\bin\Debug\netstandard2.0\SearchFight.Models.pdb
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\bin\Debug\netstandard2.0\SearchFight.Messages.pdb
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\obj\Debug\netstandard2.0\SearchFight.Business.csproj.CopyComplete
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\bin\Debug\netstandard2.0\SearchFight.DataAccess.dll
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Business\bin\Debug\netstandard2.0\SearchFight.DataAccess.pdb

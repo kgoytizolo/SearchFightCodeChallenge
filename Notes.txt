@@ -1,0 +1,25 @@
+Research sites:
+---------------
+
+https://bitbucket.org/rflechner/scrapysharp/wiki/Home
+https://www.codeproject.com/Articles/1041115/Webscraping-with-Csharp
+https://developers.google.com/custom-search/json-api/v1/using_rest
+https://blogs.bing.com/2017-05/build-your-own-web-search-service-with-bing-custom-search
+https://www.reliablesoft.net/top-10-search-engines-in-the-world/
+https://stackoverflow.com/questions/5058252/get-total-result-from-google-search-using-rest-to-invoke-api
+https://stackoverflow.com/questions/6562125/getting-a-cx-id-for-custom-search-google-api-python
+
+Clone repo: https://github.com/kgoytizolo/SearchFightCodeChallenge.git
+
+Your API Key - Google Custom Search:	https://developers.google.com/custom-search/json-api/v1/overview
+------------------------------------
+You're all set!
+You're ready to start developing with Custom Search API
+YOUR API KEY
+AIzaSyBrnP9c8Lj6bJUdCx-FLSrc-eI32WYNcGA
+info
+To improve your app's security, restrict this key's usage in the API Console.
+
+https://stackoverflow.com/questions/5058252/get-total-result-from-google-search-using-rest-to-invoke-api
+
+

@@ -1,0 +1,8 @@
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Messages\obj\Debug\netstandard2.0\SearchFight.Messages.csproj.CoreCompileInputs.cache
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Messages\obj\Debug\netstandard2.0\SearchFight.Messages.AssemblyInfoInputs.cache
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Messages\obj\Debug\netstandard2.0\SearchFight.Messages.AssemblyInfo.cs
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Messages\bin\Debug\netstandard2.0\SearchFight.Messages.deps.json
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Messages\bin\Debug\netstandard2.0\SearchFight.Messages.dll
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Messages\bin\Debug\netstandard2.0\SearchFight.Messages.pdb
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Messages\obj\Debug\netstandard2.0\SearchFight.Messages.dll
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Messages\obj\Debug\netstandard2.0\SearchFight.Messages.pdb

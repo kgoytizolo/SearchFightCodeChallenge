@@ -1,0 +1,8 @@
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Models\bin\Debug\netstandard2.0\SearchFight.Models.deps.json
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Models\bin\Debug\netstandard2.0\SearchFight.Models.dll
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Models\bin\Debug\netstandard2.0\SearchFight.Models.pdb
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Models\obj\Debug\netstandard2.0\SearchFight.Models.csproj.CoreCompileInputs.cache
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Models\obj\Debug\netstandard2.0\SearchFight.Models.AssemblyInfoInputs.cache
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Models\obj\Debug\netstandard2.0\SearchFight.Models.AssemblyInfo.cs
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Models\obj\Debug\netstandard2.0\SearchFight.Models.dll
+C:\KAREN_INFO\PROYECTOS\ASP_NET_5\SearchFightProject\SearchFightCodeChallenge\SearchFight.Models\obj\Debug\netstandard2.0\SearchFight.Models.pdb
